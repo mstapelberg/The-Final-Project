@@ -1,0 +1,11 @@
+﻿  stdafx.cpp
+  The Final Project.cpp
+c:\users\mitadm\source\repos\the final project\the final project\the final project.cpp(117): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+c:\users\mitadm\source\repos\the final project\the final project\the final project.cpp(116): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+c:\users\mitadm\source\repos\the final project\the final project\the final project.cpp(121): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+c:\users\mitadm\source\repos\the final project\the final project\the final project.cpp(120): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+c:\users\mitadm\source\repos\the final project\the final project\the final project.cpp(139): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+c:\users\mitadm\source\repos\the final project\the final project\the final project.cpp(140): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+c:\users\mitadm\source\repos\the final project\the final project\the final project.cpp(144): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+c:\users\mitadm\source\repos\the final project\the final project\the final project.cpp(145): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+  The Final Project.vcxproj -> C:\Users\mitadm\source\repos\The Final Project\Debug\The Final Project.exe
